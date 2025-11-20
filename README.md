@@ -73,10 +73,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
-[logic_diagaram1.pdf](https://github.com/user-attachments/files/23654369/logic_diagaram1.pdf)
+<img width="872" height="546" alt="image" src="https://github.com/user-attachments/assets/7d390cd5-abc6-420c-ad34-525563f7cc60" />
 
 **RTL**
-[outputs.pdf](https://github.com/user-attachments/files/23654412/outputs.pdf)
+<img width="1483" height="446" alt="image" src="https://github.com/user-attachments/assets/4ad4aab9-7611-4f88-8b4e-e542511fdd95" />
 
 
 
