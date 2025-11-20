@@ -63,6 +63,8 @@ Y= A⊕B
 
 
 **PROGRAM**
+
+
 <img width="729" height="470" alt="image" src="https://github.com/user-attachments/assets/6bb5f0e1-e3ef-4a65-a4ee-8a046d8a40a8" />
 
 
